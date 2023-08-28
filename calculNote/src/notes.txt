@@ -1,0 +1,6 @@
+Rabeson;Mamy;10
+Benjaloun;Said;13
+Kasimi;Ahmed;11
+Stephen;Curry;15
+Becha;Sanna;17
+Younsi;Karim;5

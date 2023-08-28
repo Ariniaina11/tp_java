@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculNote/calculNote.iml" filepath="$PROJECT_DIR$/calculNote/calculNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkAllDirectoriesContents/checkAllDirectoriesContents.iml" filepath="$PROJECT_DIR$/checkAllDirectoriesContents/checkAllDirectoriesContents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deserialization/deserialization.iml" filepath="$PROJECT_DIR$/deserialization/deserialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/directoryContent/directoryContent.iml" filepath="$PROJECT_DIR$/directoryContent/directoryContent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readAndWriteOnFile/readAndWriteOnFile.iml" filepath="$PROJECT_DIR$/readAndWriteOnFile/readAndWriteOnFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readFileLinePerLine/readFileLinePerLine.iml" filepath="$PROJECT_DIR$/readFileLinePerLine/readFileLinePerLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readImage/readImage.iml" filepath="$PROJECT_DIR$/readImage/readImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scolarite/scolarite.iml" filepath="$PROJECT_DIR$/scolarite/scolarite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialization/serialization.iml" filepath="$PROJECT_DIR$/serialization/serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_runnable/thread_runnable.iml" filepath="$PROJECT_DIR$/thread_runnable/thread_runnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp_advanced_programming.iml" filepath="$PROJECT_DIR$/tp_advanced_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipCompression/zipCompression.iml" filepath="$PROJECT_DIR$/zipCompression/zipCompression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipDecompression/zipDecompression.iml" filepath="$PROJECT_DIR$/zipDecompression/zipDecompression.iml" />
+    </modules>
+  </component>
+</project>
